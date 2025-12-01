@@ -1,0 +1,6 @@
+File:     Rethinking Afghanistan_ Ethnic Geography, Historical Realities, and the Case for a New Political Map.pdf
+
+MD5:      4f94e993a9daca284d6787e3db51e95d
+SHA1:     ec947ba72c3cbc7bc1240e9dab2ab0746973caf6
+SHA256:   1cc9fe497ca03d6ceb7ac100e11f2ee95811a76aeb8929a4eef85d3ba2b13610
+SHA512:   f8f55fed6609c8e024a614c61dd711ffc3b9935694624a98f2108a44d463e2911811c3f5e13a411eaf904dadc00b15e2e44015d5c3a4204e9dfad938bf4821f1
