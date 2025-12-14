@@ -1,4 +1,4 @@
-File:     Rethinking Afghanistan: Ethnic Geography, Historical Realities, and the Case for a New Political Map.pdf
+File:     Rethinking Afghanistan_ Ethnic Geography, Historical Realities, and the Case for a New Political Map.pdf
 
 MD5:      4f94e993a9daca284d6787e3db51e95d
 SHA1:     ec947ba72c3cbc7bc1240e9dab2ab0746973caf6
@@ -18,3 +18,17 @@ MD5:      055c75c03e343108348b1b35105484d7
 SHA1:     d59207664b4c5fecb948893532e0f65c114a2428
 SHA256:   e8c3bb3cf6794b01531d858c5cc20ca4743561e8102051c5441555892cab1ab8
 SHA512:   1b779b5f633024093004d697642c11d5d8276651dba6c1bea3ed345e1f6440581e03457a379f642ff372a0d47d370e3a7b15de1245813f25469cea1b6ebe262d
+
+File:     Formal Argumentation Notation_ A Precision Layer for Essays.pdf
+
+MD5:      d5455ad5ac06ca01086f0842507b36d3
+SHA1:     9792d5196db03d37a540613912ccd4aa36ff7402
+SHA256:   5c7e91aa12ee098704a23e84ecaf510c7469ddc5531b1578ada4038b50add5c6
+SHA512:   18c38d43181479db3de9b1f033f4e811a7a2ac02b09659b6d20b7e75437a8c6109dc5b8f53114e14aab661d0b3ec47887f654b4c3296a726ff67ab9766fa1e69
+
+File:     Truth = Proof.zip
+
+MD5:      fe1a75736c3840f4a08f8e825de8e4c1
+SHA1:     4e8185b6b3422fd427f193ae0606560f2b9e2596
+SHA256:   1c8b76a01b2c31b192da642501f9c552ef9facc25cee0913465cd8d4a01645f1
+SHA512:   1edd9599469dfd698183a26d1c579f0cf5e87de20b7252e4022959cd9c3b56746cdc0b29af966603493324e0a4e35c21b257dc6cc3673f90cc97b6f779115468
