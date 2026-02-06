@@ -180,3 +180,10 @@ MD5:      8693bb1306d85a3673fd509354f92440
 SHA1:     e04cf99b3d88e9897b8e8acc1ec4deb8b7ab5e96
 SHA256:   ed753d618d4762dbcea3ff367be9e37d024152f8b3e5d7747bc12df1e18fa689
 SHA512:   29532470b1a4f313c3bfeb559b601dc964febb907e05743ae3bc4dafc69e0e9d7f47e81edd4e0f3eb3ee2034045e96a1a423147f2cdf1748a99be6620907eb1e
+
+File:     Simulating a State That Never Was_ Afghanistan, Strategic Models, and the Limits of Counterinsurgency Frameworks.pdf
+
+MD5:      ccaa94bd67513611ea100a674640b3e1
+SHA1:     cfb452a43e7bb77f7082e790e1bc54b306e6f9ce
+SHA256:   f9cbc62b930deaa9f710ce92872daccf5ea695367cb13ac7d91962a7dac13867
+SHA512:   50a5c64e5c6ff933acf0d190494febaea0e2b7c66d0a939ea67e33ff61e43dfbe44d4b5b2ff9e5249a7d8a11ae342ed4d7a4655076535e457c4d8e369828c229
